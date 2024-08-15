@@ -4,7 +4,7 @@ Tracks the mouse velocity within two seperate MP4 files and comparatively plots 
 
 # Purpose
 
-To detect recoil eliminating scripts  
+An attempt to detect recoil eliminating scripts using frame (image) data processing and comparative data visualization techniques.
 
 # Requirements
 - cv2
